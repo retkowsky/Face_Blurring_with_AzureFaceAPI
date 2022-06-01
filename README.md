@@ -9,8 +9,8 @@ Documentation:
 https://docs.microsoft.com/en-us/azure/cognitive-services/face/
 
 <img src='images/image1.jpg' width=800>
-<img src='blurred_image1.jpg' width=800>
 <img src='facelandmarks.jpg' width=800>
+<img src='blurred_image1.jpg' width=800>
 <img src='smiley_image1.jpg' width=800>
 <img src='black_image1.jpg' width=800>
 <img src='image.jpg' width=800>
