@@ -9,7 +9,8 @@ Documentation:
 https://docs.microsoft.com/en-us/azure/cognitive-services/face/
 
 <img src='image.jpg'>
-
+<img src='imagsmiley_image.jpg'>
+<img src='black_image1.jpg'>
 <br>
 <br>
 01-June-2021
