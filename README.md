@@ -8,9 +8,9 @@ You can blur the face or replace it by any other image or color.
 Documentation:
 https://docs.microsoft.com/en-us/azure/cognitive-services/face/
 
-<img src='image.jpg'>
-<img src='imagsmiley_image.jpg'>
+<img src='imagesmiley_image.jpg'>
 <img src='black_image1.jpg'>
+<img src='image.jpg'>
 <br>
 <br>
 01-June-2021
