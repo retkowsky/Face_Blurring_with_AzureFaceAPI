@@ -8,6 +8,9 @@ You can blur the face or replace it by any other image or color.
 Documentation:
 https://docs.microsoft.com/en-us/azure/cognitive-services/face/
 
+
+
+
 01-June-2021
 
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
